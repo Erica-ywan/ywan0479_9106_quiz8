@@ -30,4 +30,4 @@ As shown in the images below, switching from click interaction to drag interacti
 
 ![reference6](images/6.png)
 
-Thanks for your watching, Have a nice day!
+Thanks for your watching, have a nice day!
